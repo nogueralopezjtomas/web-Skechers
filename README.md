@@ -1,2 +1,2 @@
-# web-Skechers
+# web-Skchers
 Venta De Zapatillas Deportivas
